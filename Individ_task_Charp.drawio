@@ -34,7 +34,7 @@
         <mxCell id="26XyOTbJn3KY2433N-xs-18" value="Хранения информации о каждом&lt;br&gt;&amp;nbsp;посещении сотрудником работы." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="26XyOTbJn3KY2433N-xs-17" vertex="1">
           <mxGeometry y="47" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="26XyOTbJn3KY2433N-xs-23" value="new Jurnal" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="26XyOTbJn3KY2433N-xs-23" value="new Jurnal" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1"> 
           <mxGeometry x="630" y="147" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="26XyOTbJn3KY2433N-xs-24" value="Заполнение коллекции &lt;br&gt;объектами класса Журнал " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="26XyOTbJn3KY2433N-xs-23" vertex="1">
