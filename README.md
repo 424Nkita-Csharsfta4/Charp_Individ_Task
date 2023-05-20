@@ -1,5 +1,5 @@
 # Charp_Individ_Task
-<a href="#">Ответы на Экзамен</a>
+<a href="https://github.com/424Nkita-Csharsfta4/Charp_Individ_Task/blob/main/List_education.md">Ответы на Экзамен</a>
 
 <h2>Для запуска проекта использовать 2022г.версию Visual Studio</h2>
 Индивидуальное задание по C# «Создание приложения Журнал учета посещения сотрудниками работы» на базе ООО «Тирскрипт»
