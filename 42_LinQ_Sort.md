@@ -1,17 +1,20 @@
-LINQ позволяет фильтровать данные с использованием оператора where. 
-Он применяется для указания условия, которому должны удовлетворять элементы, чтобы быть включенными в результат.
-
+LINQ позволяет сортировать данные с использованием оператора orderby. 
+Он применяется для упорядочивания элементов в результирующем наборе данных по указанному критерию.
 Пример:
 
-```
-int[] numbers = { 1, 2, 3, 4, 5 };
-var evenNumbers = numbers.Where(num => num % 2 == 0);
 
-foreach (var num in evenNumbers)
+```
+int[] numbers = { 5, 2, 1, 4, 3 };
+var sortedNumbers = numbers.OrderBy(num => num);
+
+foreach (var num in sortedNumbers)
 {
     Console.WriteLine(num);
 }
 // Выводит:
+// 1
 // 2
+// 3
 // 4
+// 5
 ```
