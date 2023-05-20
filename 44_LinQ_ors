@@ -1,0 +1,15 @@
+LINQ позволяет проверять наличие элементов в коллекции и получать элементы по определенному условию. 
+Операторы Any(), First(), FirstOrDefault(), Single(), SingleOrDefault() и другие используются для выполнения этих операций. 
+
+Пример:
+
+```
+string[] names = { "John", "Alice", "Michael" };
+bool anyNameStartsWithJ = names.Any(name => name.StartsWith("J"));
+string firstJName = names.First(name => name.StartsWith("J"));
+string defaultIfEmpty = names.FirstOrDefault(name => name.StartsWith("Z"));
+
+Console.WriteLine(anyNameStartsWithJ); // Выводит true
+Console.WriteLine(firstJName); // Выводит "John"
+Console.WriteLine(defaultIfEmpty); // Выводит null
+```
