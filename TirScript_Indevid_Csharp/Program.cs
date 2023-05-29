@@ -99,7 +99,7 @@ namespace TirScript_Indevid_Csharp
                                       new DateTime(2022, 5, 1, 22, 0, 0)));
 
             //Все зариси:
-            Console.WriteLine("Все зариси: ");
+            Console.WriteLine("Все записи: ");
             Print_Employee_Information(employees_information);
 
             //Записи, отсортированные по ФИО сотрудника:
