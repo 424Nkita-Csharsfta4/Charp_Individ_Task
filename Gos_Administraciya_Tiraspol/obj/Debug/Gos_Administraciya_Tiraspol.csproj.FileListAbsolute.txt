@@ -1,0 +1,8 @@
+C:\Users\tvc\source\repos\Gos_Administraciya_Tiraspol\bin\Debug\Gos_Administraciya_Tiraspol.exe.config
+C:\Users\tvc\source\repos\Gos_Administraciya_Tiraspol\bin\Debug\Gos_Administraciya_Tiraspol.exe
+C:\Users\tvc\source\repos\Gos_Administraciya_Tiraspol\bin\Debug\Gos_Administraciya_Tiraspol.pdb
+C:\Users\tvc\source\repos\Gos_Administraciya_Tiraspol\obj\Debug\Gos_Administraciya_Tiraspol.csproj.AssemblyReference.cache
+C:\Users\tvc\source\repos\Gos_Administraciya_Tiraspol\obj\Debug\Gos_Administraciya_Tiraspol.csproj.SuggestedBindingRedirects.cache
+C:\Users\tvc\source\repos\Gos_Administraciya_Tiraspol\obj\Debug\Gos_Administraciya_Tiraspol.csproj.CoreCompileInputs.cache
+C:\Users\tvc\source\repos\Gos_Administraciya_Tiraspol\obj\Debug\Gos_Administraciya_Tiraspol.exe
+C:\Users\tvc\source\repos\Gos_Administraciya_Tiraspol\obj\Debug\Gos_Administraciya_Tiraspol.pdb
