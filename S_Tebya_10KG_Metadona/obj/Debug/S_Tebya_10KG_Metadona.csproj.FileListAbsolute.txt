@@ -1,0 +1,8 @@
+C:\Users\tvc\source\repos\S_Tebya_10KG_Metadona\bin\Debug\S_Tebya_10KG_Metadona.exe.config
+C:\Users\tvc\source\repos\S_Tebya_10KG_Metadona\bin\Debug\S_Tebya_10KG_Metadona.exe
+C:\Users\tvc\source\repos\S_Tebya_10KG_Metadona\bin\Debug\S_Tebya_10KG_Metadona.pdb
+C:\Users\tvc\source\repos\S_Tebya_10KG_Metadona\obj\Debug\S_Tebya_10KG_Metadona.csproj.AssemblyReference.cache
+C:\Users\tvc\source\repos\S_Tebya_10KG_Metadona\obj\Debug\S_Tebya_10KG_Metadona.csproj.SuggestedBindingRedirects.cache
+C:\Users\tvc\source\repos\S_Tebya_10KG_Metadona\obj\Debug\S_Tebya_10KG_Metadona.csproj.CoreCompileInputs.cache
+C:\Users\tvc\source\repos\S_Tebya_10KG_Metadona\obj\Debug\S_Tebya_10KG_Metadona.exe
+C:\Users\tvc\source\repos\S_Tebya_10KG_Metadona\obj\Debug\S_Tebya_10KG_Metadona.pdb
